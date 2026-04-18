@@ -22,7 +22,8 @@
 • Increase subscription sign-ups with a welcome discount
 
 # Light Mode
-![Dashboard screenshot](https://github.com/wsnh2022/PowerBI_Dashboards/blob/master/US_Customer_Shopping_Behavior_dashboard/U.S%20Customer%20Shopping%20Behavior%20Dashboard%2010.0.png)
+
+![Dashboard screenshot](U.S_Customer_Shopping_Behavior_Dashboard_10.0.png)
 
 # Dark Mode
-![Dashboard screenshot](https://github.com/wsnh2022/PowerBI_Dashboards/blob/master/US_Customer_Shopping_Behavior_dashboard/U.S%20Customer%20Shopping%20Behavior%20Dashboard%2011.0.png)
+![Dashboard screenshot](U.S_Customer_Shopping_Behavior_Dashboard_11.0.png)
