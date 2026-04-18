@@ -1,4 +1,6 @@
-## Dashboard Project Findings  
+# US Customer Shopping Behavior Dashboard
+
+## Dashboard Project Findings 
 “US Customer Shopping Behavior dashboard shows: $233.1K total revenue, $59.76 average order value, and 43% promo-code usage.” 
   
 ## Key insights:  
