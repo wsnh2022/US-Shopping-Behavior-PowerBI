@@ -23,7 +23,7 @@
 
 # Light Mode
 
-![Dashboard screenshot](U.S_Customer_Shopping_Behavior_Dashboard_10.0.png)
+![Dashboard screenshot](dashboard_preview_light.png)
 
 # Dark Mode
-![Dashboard screenshot](U.S_Customer_Shopping_Behavior_Dashboard_11.0.png)
+![Dashboard screenshot](dashboard_preview_dark.png)
